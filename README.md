@@ -12,8 +12,6 @@ The project focuses on analyzing historical medical data to uncover the impact o
 - [Dataset](#dataset)
 - [Analysis](#analysis)
 - [Key Insights](#key-insights)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Details
 
