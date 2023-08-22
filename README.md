@@ -37,7 +37,7 @@ before and after the implementation of handwashing practices.
 - **Visualization:** Visualizations were created to compare mortality rates before and after handwashing implementation,
   illustrating the impact on maternal deaths.
 
-- **Statistical Analysis:** Statistical tests were performed to validate the significance of the reduction in mortality rates due to handwashing.
+- **Statistical Analysis:** Statistical tests were performed to validate the significance of reducing mortality rates due to handwashing.
 
 ## Key Insights
 
@@ -46,12 +46,4 @@ before and after the implementation of handwashing practices.
 - The project highlights the importance of data-driven decision-making in healthcare practices.
 
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or feedback, please get in touch with [Umma Khair Fatema](fatema.sorna@gmail.com).
 
