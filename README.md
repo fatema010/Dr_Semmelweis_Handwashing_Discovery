@@ -53,5 +53,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact [Umma Khair Fatema](fatema.sorna@gmail.com).
+For any inquiries or feedback, please get in touch with [Umma Khair Fatema](fatema.sorna@gmail.com).
 
